@@ -1,0 +1,8 @@
+# Garnix CI configuration
+# See https://garnix.io/docs for more options
+#
+# This configuration builds all default packages and checks.
+# Garnix auto-discovers flake outputs, so explicit listing is optional.
+
+builds:
+  exclude: []
